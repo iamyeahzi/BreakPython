@@ -5,13 +5,13 @@
 - 파이썬의 기초와 자료구조를 익히고 파이썬을 통한 데이터 분석을 진행
 
 # :file_folder: Weekly assignment
-- weeks2( 2주차 ) 퀘스트 : 변수, 제어문, 함수와 입출력 다루기
-  - :pencil2: 1weeks_kimyeji.ipynb
-  - 출처: <https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md>;
+- weeks 2 (2주차) 퀘스트 : 변수, 제어문, 함수와 입출력 다루기
+  - :pencil2: [1weeks_kimyeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/1weeks_kimyeji.ipynb)
+  - 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
   
-- weeks3( 3주차 ) 퀘스트 : 함수응용(예외처리 포함)
-  - :pencil2: 3weeks_kimyeji.ipynb
-  - 출처: <https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md>
+- weeks 3 (3주차) 퀘스트 : 함수응용(예외처리 포함)
+  - :pencil2: [3weeks_kimyeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/3weeks_kimyeji.ipynb)
+  - 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
   
 # :speech_balloon: E-mail
 - <dpwldkdk@gmail.com>
