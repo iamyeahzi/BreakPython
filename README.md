@@ -7,15 +7,15 @@
 
 
 # :file_folder: Weekly assignment
-> weeks 2 (2주차) 퀘스트 : 변수, 제어문, 함수와 입출력 다루기
+- weeks 2 (2주차) 퀘스트 : 변수, 제어문, 함수와 입출력 다루기
   - :pencil2: [1weeks_kimyeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/1weeks_kimyeji.ipynb)
   - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
   
-> weeks 3 (3주차) 퀘스트 : 함수응용(예외처리 포함)
+- weeks 3 (3주차) 퀘스트 : 함수응용(예외처리 포함)
   - :pencil2: [3weeks_kimyeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/3weeks_kimyeji.ipynb)
   - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
 
-> weeks 4 (4주차) 퀘스트 : 깃허브에 파뿌리 repository 생성/관리
+- weeks 4 (4주차) 퀘스트 : 깃허브에 파뿌리 repository 생성/관리
   - :pencil2: [README.md](https://github.com/iamyeahzi/BreakPython/blob/main/README.md)
   
 
