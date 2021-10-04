@@ -27,7 +27,7 @@
   - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/5%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
 
 - weeks 7 (7주차) 퀘스트 : 데이터 시각화(EDA) 실습
-  - :pencil2: [7weeks_yejㅑ.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/7weeks_yeji.ipynb)
+  - :pencil2: [7weeks_yeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/7weeks_yeji.ipynb)
   - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/7%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
   
   
