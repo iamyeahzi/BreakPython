@@ -35,7 +35,7 @@
   
 - final 퀘스트 : 2010 영화 데이터 셋 분석 및 insight 도출 project 
   - 📽 [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
-  - 📽 발표자료 : 
+  - 📌 발표자료 : https://github.com/iamyeahzi/BreakPython-python-study/blob/main/kimyeji_movieproj(pdf).pdf
     
   
 
@@ -44,6 +44,7 @@
   - dataset : movies_train.csv
   - dataset 설명 : 2010년 ~ 2015년도의 국내 영화 data
   - 📽 [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
+  - 📌 발표자료 : https://github.com/iamyeahzi/BreakPython-python-study/blob/main/kimyeji_movieproj(pdf).pdf
   
   
 # :speech_balloon: E-mail
