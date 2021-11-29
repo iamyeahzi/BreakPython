@@ -40,6 +40,8 @@
 
 # :pushpin: Final Stage
 - 파이썬을 이용하여 다양하고 광범위한 데이터 파일들을 분석하고 유의미한 결과를 도출해보기 !
+  - dataset : movies_train.csv
+  - dataset 설명 : 2010년 ~ 2015년도의 국내 영화 data
   - 📽: [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
   
   
