@@ -33,14 +33,14 @@
 - weeks 8 (8주차) 퀘스트 : 판다스, 데이터 전처리, 데이터 시각화(EDA) 정리
   - :pencil2: [8weeks_yeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/8weeks_yeji.ipynb)
   
-- final 퀘스트 : 📽 2010 영화 데이터 셋 분석 및 insight 도출 project 
-  - :pencil2: [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
+- final 퀘스트 : 2010 영화 데이터 셋 분석 및 insight 도출 project 
+  - 📽: [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
     
   
 
 # :pushpin: Final Stage
 - 파이썬을 이용하여 다양하고 광범위한 데이터 파일들을 분석하고 유의미한 결과를 도출해보기 !
-  - :pencil2: [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
+  - 📽: [movie_project.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/movie_project.ipynb)
   
   
 # :speech_balloon: E-mail
